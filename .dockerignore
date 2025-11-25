@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+tf-env/
+.venv/
+env/
+.env
+.git
+static/input
+uploads
+*.sqlite3
+users.db
+__pycache__/
